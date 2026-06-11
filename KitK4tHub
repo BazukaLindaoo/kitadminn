@@ -101,7 +101,7 @@ end
 getgenv().KitKatConfig = {
     AuthorizedPlayersURL = "https://raw.githubusercontent.com/KitUserss/allow-users/refs/heads/main/brookhaven.lua",
     SpecialTags = {
-        ["aaa"] = "Dono KitK4t",
+        ["Breno010L"] = "Dono KitK4t",
         ["aaaa"] = "Dono Do KitK4t",
         ["StaffordMakayla783"] = "Dono Do KitK4t",
         ["lushmart"]  = "Dono Do KitK4t"
